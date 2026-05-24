@@ -110,7 +110,7 @@ Cuando me indiques, prepararé el commit final siguiendo Conventional Commits y 
 
 ## Contacto
 
-Para cualquier duda sobre decisiones de arquitectura o flujos, abre un issue o mencióname en el PR.
+Para cualquier duda sobre decisiones de arquitectura o flujos, abre un issue o contacta a los mantenedores en el PR.
 
 ---
 
