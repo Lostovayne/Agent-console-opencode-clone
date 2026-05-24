@@ -111,7 +111,3 @@ Cuando me indiques, prepararé el commit final siguiendo Conventional Commits y 
 ## Contacto
 
 Para cualquier duda sobre decisiones de arquitectura o flujos, abre un issue o mencióname en el PR.
-
----
-
-_Este README fue generado por un asistente para acelerar onboarding y cumplir con prácticas senior de mantenimiento y entrega._
