@@ -79,7 +79,7 @@ Actualmente no hay suite de tests configurada. Recomendación inicial para produ
 ## Flujo de branching y commits
 
 - Ramas: usa ramas con prefijo `feature/`, `fix/`, `chore/`.
-- Antes de crear un commit final, actualiza el `README.md` y `tech-stack.md` si modificas dependencias.
+- Antes de crear un commit final, actualiza el README.md si modificas dependencias.
 - Usa Conventional Commits para mensajes de commit. Ejemplos:
   - `feat(cli): add ascii welcome screen`
   - `fix(cli): prevent crash on missing renderer`
@@ -110,4 +110,8 @@ Cuando me indiques, prepararé el commit final siguiendo Conventional Commits y 
 
 ## Contacto
 
-Para cualquier duda sobre decisiones de arquitectura o flujos, abre un issue o mencióname en el PR.
+Para cualquier duda sobre decisiones de arquitectura o flujos, abre un issue o contacta a los mantenedores en el PR.
+
+---
+
+_Este README fue generado por un asistente para acelerar onboarding y cumplir con prácticas senior de mantenimiento y entrega._
